@@ -1,0 +1,7 @@
+version: 1
+component:
+  name: TechDocs Root Homepage Test
+  owner: sec_pe_team_roses
+  description: Scratch repo used to verify the root-index/README + non-canonical docs/ files edge case live.
+  repositories:
+    - name: hyacinth-bruno/techdocs-root-homepage-test
